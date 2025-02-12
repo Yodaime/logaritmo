@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Nexus AI redefines content creation by seamlessly integrating cutting-edge AI technology.",favicon:"https://framerusercontent.com/assets/qNRS4wTWLPtcemdXrziD2FyBUc.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/gvb6D4PhDRhyaylcdMSNC5zYWc.png",title:"Nexus - Framer AI Templates"}}export{e as a};
+//# sourceMappingURL=chunk-XPR55DSZ.mjs.map

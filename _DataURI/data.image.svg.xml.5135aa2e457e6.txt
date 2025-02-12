@@ -1,0 +1,1 @@
+data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%203%2017%22%3E%3Cpath%20d%3D%22M%201%201%20L%201%2016%22%20fill%3D%22transparent%22%20stroke%3D%22rgba(255%2C%20255%2C%20255%2C%200.1)%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E
